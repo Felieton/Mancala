@@ -1,4 +1,7 @@
 # Mancala
+Mancala is a two-player turn-based strategy game. The objective of the game is to is to capture all or some set of the opponent's pieces.
+
+## Project
 This is a implementation of a game Mancala with a very simple console ui. Game allows to play players with each other or vs a computer. Computer uses Minimax algorithm with Alpha–beta pruning.
 
 ## Screenshots
